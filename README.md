@@ -1,2 +1,2 @@
 # DPP-for-CPP
-For logic building
+to build logic
